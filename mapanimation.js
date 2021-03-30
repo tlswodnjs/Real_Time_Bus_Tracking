@@ -5,7 +5,7 @@
       container: 'map',
       style: 'mapbox://styles/mapbox/streets-v11',
       center: [-71.104081, 42.365554],
-      zoom: 13
+      zoom: 12
   });
 
   var marker = new mapboxgl.Marker()
